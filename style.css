@@ -12,7 +12,6 @@ body {
   color: #333333;
 }
 
-/* ── NAVBAR ── */
 header {
   background-color: #ffffff;
   border-bottom: 2px solid #dddddd;
@@ -38,7 +37,6 @@ nav ul li a:hover {
   border-bottom: 2px solid #1428a0;
 }
 
-/* ── SECTIONS ── */
 section {
   padding: 50px 60px;
   border-bottom: 1px solid #e0e0e0;
@@ -77,14 +75,12 @@ p {
   margin-bottom: 12px;
 }
 
-/* ── LISTE FEATURES ── */
 ul li {
   padding: 6px 0;
   color: #444444;
   border-bottom: 1px solid #f0f0f0;
 }
 
-/* ── TABLEAU ── */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -109,7 +105,6 @@ tr:nth-child(even) td {
   background-color: #f9f9f9;
 }
 
-/* ── CONTACT ── */
 #contact p {
   margin-bottom: 8px;
 }
@@ -119,7 +114,6 @@ tr:nth-child(even) td {
   text-decoration: none;
 }
 
-/* ── FORMULAIRE ── */
 label {
   font-size: 13px;
   color: #000000;
